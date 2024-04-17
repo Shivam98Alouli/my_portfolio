@@ -331,7 +331,10 @@ img {
   width: 50%;
 }
 .skills__Git {
-  width: 80%;
+  width: 70%;
+}
+.skills__GitHub {
+  width: 70%;
 }
 .skills__img {
   border-radius: 0.5rem;
