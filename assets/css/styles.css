@@ -271,7 +271,7 @@ img {
   align-items: center;
   position: relative;
   font-weight: var(--font-semi);
-  padding: 0.5rem 1rem;
+  padding: 0.7rem 1rem;
   margin-bottom: var(--mb-4);
   border-radius: 0.5rem;
   box-shadow: 0px 4px 25px rgba(14, 36, 49, 0.15);
@@ -281,6 +281,17 @@ img {
   margin-right: var(--mb-2);
   color: var(--first-color);
 }
+.fa-brands {
+  font-size: 2rem;
+  margin-right: var(--mb-2);
+  color: var(--first-color);
+}
+.fa-solid {
+  font-size: 2rem;
+  margin-right: var(--mb-2);
+  color: var(--first-color);
+}
+
 .fa-database fa-xl {
   font-size: 2rem;
   margin-right: var(--mb-2);
@@ -318,6 +329,9 @@ img {
 }
 .skills__Azure {
   width: 50%;
+}
+.skills__Git {
+  width: 80%;
 }
 .skills__img {
   border-radius: 0.5rem;
